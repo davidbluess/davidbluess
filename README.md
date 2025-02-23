@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidbluess
-- 👀 I’m interested in develop
+- 👀 I’m interested in systems analysis and development
 - 🌱 I’m currently learning Html, Css ,Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
